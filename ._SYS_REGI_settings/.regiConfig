@@ -1,0 +1,11 @@
+{
+ "name": "OpenSAP",
+ "hostname": "hxehost:30015",
+ "systemid": "HXE",
+ "user": "ABAL",
+ "key": "",
+ "client_format_version": "1.0.0",
+ "trackedPackages": [],
+ "instance": "0",
+ "dbtype": "systemdb"
+}

@@ -1,0 +1,18 @@
+{
+ "name": "",
+ "filenames": [
+  {
+   "filename": "workshops/session01/00/.project",
+   "filesize": "1053",
+   "timest": "2016-10-17 18:29:32.315 UTC",
+   "sha1value": "230569844.3082600295.2666718671.3226732936.3069570666"
+  },
+  {
+   "filename": "workshops/session01/00/.settings/.jsdtscope",
+   "filesize": "403",
+   "timest": "2016-10-17 18:28:51.658 UTC",
+   "sha1value": "3092348289.1514320135.2527355164.1195235312.3359712394"
+  }
+ ],
+ "conflicts": []
+}
